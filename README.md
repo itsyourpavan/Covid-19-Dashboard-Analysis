@@ -78,5 +78,5 @@ This **COVID-19 Dashboard** built in Tableau offers a comprehensive analysis of 
 If you'd like to improve this dashboard or enhance its functionality, feel free to **fork this repository** and submit a pull request with your contributions.
 
 ## Author
-Developed by [Your Name]. Connect with me for further discussions on **data analytics and visualization!**
+Developed by itsyourpavan. Connect with me for further discussions on **data analytics and visualization!**
 
